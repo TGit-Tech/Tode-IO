@@ -1,6 +1,0 @@
-Step #1 - 
-Print Stickers
-
-Step #3 -
-Add a Full PCB Board Sticker before soldering on LM2596 Power Supply?
-

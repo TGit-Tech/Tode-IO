@@ -1,5 +1,0 @@
-Try using the BackPlane Offset PWR
-To connect with BIOPH.
-
-Can Male Pins pointed out the back of the BackPlane
-Mesh into a Female board level plug?
